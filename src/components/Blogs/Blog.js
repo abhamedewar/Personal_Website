@@ -13,9 +13,9 @@ const Blog = (props) => {
         <img
           src={blog.img}
           alt={blog.title}
-          className="object-contain w-[250px] h-[300px] mx-10"
+          className="object-contain w-[250px] h-[280px] mx-10"
         />
-        <div className="flex flex-col gap-10 items-center">
+        <div className="flex flex-col items-center">
           <div className="text-xl lg:text-3xl font-semibold w-4/5">
             {blog.title}{" "}
             <a

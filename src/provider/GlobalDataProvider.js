@@ -175,7 +175,7 @@ const GlobalData = {
       {
         year: "June 2017 - July 2017",
         organisation: "Global Super Elite(GSE)",
-        role: "Software Development Engineer",
+        role: "Software Engineer Intern",
         detail: [
           "Worked on web platform development: a one-stop place for online shopping to help raise funds for NGOs.",
           "Worked on implementation of backend API’s.",
