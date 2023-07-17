@@ -108,8 +108,8 @@ const GlobalData = {
         and tackling challenges outside of the comfort zone.
 
         <br />
-        As a passionate software developer, I possess comprehensive expertise in end-to-end product development 
-        and a deep understanding of the machine learning lifecycle. My proficiency lies in translating real-world
+        As a passionate software developer, I possess comprehensive expertise in end-to-end product development.
+        My proficiency lies in translating real-world
         problems into effective solutions, coupled with my strong capabilities in designing,
         building, and coding complex algorithms.
 
@@ -227,7 +227,7 @@ const GlobalData = {
       {
         img: require("../imgs/skills/soft/creativity.jpg"),
         type: "Creativity",
-        info: "In one of the projects I was working on involved a lot of image annotation which took 2-3 weeks of the project entire time. I worked on developing a solution for reducing the manual work involved in image annotations by implementing auto-annotation tool, this work reduced the overall annotation time by 60%.",
+        info: "During one of my projects, a significant amount of time, approximately 2-3 weeks, was dedicated to image annotation. To address this issue, I worked on creating an auto-annotation tool as a solution. The implementation of this tool resulted in a remarkable reduction of 60% in the overall time required for annotations.",
       },
       {
         img: require("../imgs/skills/soft/teamWork.png"),
@@ -237,7 +237,7 @@ const GlobalData = {
       {
         img: require("../imgs/skills/soft/Communication.webp"),
         type: "Communication",
-        info: "While I was working on the Proof of Concept work at Tata Elxsi I was responsible for giving presentations related to the work to customers around the world from Eupore, United States, Germany, Japan. ",
+        info: "At Tata Elxsi, I had the chance to work on a Proof of Concept. My responsibilities included presenting the work to customers worldwide, including Europe, US, Germany, and Japan. I successfully adapted to different audiences, building strong customer relationships and demonstrating my communication abilities.",
       },
       {
         img: require("../imgs/skills/soft/time.png"),
@@ -247,7 +247,7 @@ const GlobalData = {
       {
         img: require("../imgs/skills/soft/teammange.jpeg"),
         type: "Team Management",
-        info: "Led a group of 3 people, working on proof of concept work at Tata Elxsi. Regularly interacted with subject matter experts to gather requirements, plan and assign tasks efficiently. The company was able to secure funding from key clients.",
+        info: "Led a group of 3 people while working on Proof of Concept work at Tata Elxsi. Regularly interacted with subject matter experts to gather requirements, plan and assign tasks efficiently. The company was able to secure funding from key clients.",
       },
     ],
   },
@@ -330,7 +330,7 @@ const GlobalData = {
       {
         img: require("../imgs/projects/ml.jpg"),
         title: "Everything about Machine Learning",
-        link: "https://github.com/abhamedewar/everything_about_ml",
+        link: "https://abhamedewar.github.io/everything_about_ml/",
         year: "",
         points: [
           "A simple website where I write everything I read about Machine Learning.",
