@@ -61,19 +61,19 @@ const travel = [
   return (
     <div className="flex flex-1 flex-col items-center sm:overflow-y-scroll md:overflow-x-hidden scrollbar-hide mb-8 ">
       <div className="text-4xl md:text-5xl font-normal p-4 md:mt-6 text-left w-full md:px-10">Paintings</div>
-      <div className="flex flex-col md:m-5 gap-10 px-10 items-center w-full">
+      <div className="flex flex-col md:m-5 gap-10 px-5 items-center w-full">
         <Hobby paintings={paint} desc=""/>
       </div>
       <div className="text-4xl md:text-5xl font-normal p-4 md:mt-6 text-left w-full md:px-10">My Graduation Day</div>
-      <div className="flex flex-col md:m-5 gap-10 px-10 items-center w-full">
+      <div className="flex flex-col md:m-5 gap-10 px-5 items-center w-full">
         <Hobby paintings={graduation} desc=""/>
       </div>
       <div className="text-4xl md:text-5xl font-normal p-4 md:mt-6 text-left w-full md:px-10">Schools Attended</div>
-      <div className="flex flex-col md:m-5 gap-10 px-10 items-center w-full">
+      <div className="flex flex-col md:m-5 gap-10 px-5 items-center w-full">
         <Hobby paintings={schools} desc=""/>
       </div>
       <div className="text-4xl md:text-5xl font-normal p-4 md:mt-6 text-left w-full md:px-10">Travel</div>
-      <div className="flex flex-col md:m-5 gap-10 px-10 items-center w-full">
+      <div className="flex flex-col md:m-5 gap-10 px-5 items-center w-full">
         <Hobby paintings={travel} desc=""/>
       </div>
     </div>
